@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local environment
+.env
+
+# Common outputs
+build/
+dist/
+artifacts/
